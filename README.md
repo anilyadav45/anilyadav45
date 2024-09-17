@@ -5,10 +5,11 @@
 
 
 <p align="center">
-  <a href="rebelanil885@gmail.com">
+  <a href="mailto:rebelanil885@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anil-yadav-8b1361282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
