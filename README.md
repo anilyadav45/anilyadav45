@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+👋,+I'm+Anil+Yadav;MERN+Developer+%7C+Lifelong+Learner&center=true&size=27" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hi+👋,+I'm+Anil+Yadav;MERN+Developer+%7C+Lifelong+Learner&center=true&size=30" alt="Typing SVG" />
 </div>
 
 
+
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="rebelanil885@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
