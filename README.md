@@ -9,7 +9,6 @@
 </p>
 
 <div align="center">
-  <!-- Replace this with your Tenor embed code -->
   <iframe src="https://tenor.com/embed/kroppa-digital-socialmedia-mothersday-developer-gif-21768300" width="320" height="240" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -18,7 +17,6 @@
 ### 👨‍💻 Projects
 
 <div align="center">
-  <!-- Replace this with your Tenor embed code -->
   <iframe src="https://tenor.com/embed/kroppa-digital-socialmedia-mothersday-developer-gif-21768300" width="320" height="240" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -27,7 +25,6 @@ All of my projects are available at [click here](https://github.com/anilyadav45?
 ### 💬 Ask me about
 
 <div align="center">
-  <!-- Replace this with your Tenor embed code -->
   <iframe src="https://tenor.com/embed/kroppa-digital-socialmedia-mothersday-developer-gif-21768300" width="320" height="240" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -46,6 +43,7 @@ Check out my professional experience on [LinkedIn](https://www.linkedin.com/in/a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://api.iconify.design/logos/tailwindcss.svg" alt="Tailwind CSS" width="50" height="50"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
@@ -66,3 +64,9 @@ Check out my professional experience on [LinkedIn](https://www.linkedin.com/in/a
 ### 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anilyadav45&show_icons=true&theme=dark" alt="Anil's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/animation.gif" width="50%">
+</div>
