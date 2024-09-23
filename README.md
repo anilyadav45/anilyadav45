@@ -22,7 +22,7 @@
 ### 👨‍💻 Projects
 
 <div align="center">
-<!--   <img src="https://media.tenor.com/images/b9d8edab1b67b0457abfb16db89e6054/tenor.gif" width="50%"> -->
+  <div class="tenor-gif-embed" data-postid="21768300" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300">Kroppa Digital Sticker</a>from <a href="https://tenor.com/search/kroppa-stickers">Kroppa Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 All of my projects are available at [click here](https://github.com/anilyadav45?tab=repositories)
