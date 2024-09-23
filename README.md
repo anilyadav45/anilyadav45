@@ -21,17 +21,9 @@
 
 ### 👨‍💻 Projects
 
-<div align="center">
- <img src = "https://media1.tenor.com/m/gI1CoSP-3R8AAAAd/front.gif"/>
-</div>
-
 All of my projects are available at [click here](https://github.com/anilyadav45?tab=repositories)
 
 ### 💬 Ask me about
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/M0na3YR-rTcAAAAd/enter-dev.gif">
-</div>
 
 **Web Development, MERN Stack, and Learning New Technologies**
 
