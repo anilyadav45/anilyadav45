@@ -30,7 +30,7 @@ All of my projects are available at [click here](https://github.com/anilyadav45?
 ### 💬 Ask me about
 
 <div align="center">
-  <img src="https://tenor.com/view/horse-developer-mascot-typing-laptop-gif-17349971" width="50%">
+  <img src="https://tenor.com/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300">
 </div>
 
 **Web Development, MERN Stack, and Learning New Technologies**
