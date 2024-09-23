@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hi+👋,+I'm+Anil+Yadav;Web+Developer+%7C+Lifelong+Learner&center=true&size=30" alt="Typing SVG" />
 </div>
 
-
-
 <p align="center">
   <a href="mailto:rebelanil885@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
@@ -11,16 +9,17 @@
 </p>
 
 <div align="center">
- <img src="https://tenor.com/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300" alt="developer gif" />
+  <!-- Replace this with your Tenor embed code -->
+  <iframe src="https://tenor.com/embed/kroppa-digital-socialmedia-mothersday-developer-gif-21768300" width="320" height="240" frameborder="0" allowfullscreen></iframe>
 </div>
-
 
 ---
 
 ### 👨‍💻 Projects
 
 <div align="center">
- <img src = "https://tenor.com/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300" "/>
+  <!-- Replace this with your Tenor embed code -->
+  <iframe src="https://tenor.com/embed/kroppa-digital-socialmedia-mothersday-developer-gif-21768300" width="320" height="240" frameborder="0" allowfullscreen></iframe>
 </div>
 
 All of my projects are available at [click here](https://github.com/anilyadav45?tab=repositories)
@@ -28,7 +27,8 @@ All of my projects are available at [click here](https://github.com/anilyadav45?
 ### 💬 Ask me about
 
 <div align="center">
-  <img src="https://tenor.com/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300">
+  <!-- Replace this with your Tenor embed code -->
+  <iframe src="https://tenor.com/embed/kroppa-digital-socialmedia-mothersday-developer-gif-21768300" width="320" height="240" frameborder="0" allowfullscreen></iframe>
 </div>
 
 **Web Development, MERN Stack, and Learning New Technologies**
@@ -46,7 +46,6 @@ Check out my professional experience on [LinkedIn](https://www.linkedin.com/in/a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://api.iconify.design/logos/tailwindcss.svg" alt="Tailwind CSS" width="50" height="50"/>
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
@@ -67,9 +66,3 @@ Check out my professional experience on [LinkedIn](https://www.linkedin.com/in/a
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anilyadav45&show_icons=true&theme=dark" alt="Anil's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/animation.gif" width="50%">
-</div>
