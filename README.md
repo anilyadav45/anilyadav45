@@ -2,14 +2,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hi+👋,+I'm+Anil+Yadav;Web+Developer+%7C+Lifelong+Learner&center=true&size=30" alt="Typing SVG" />
 </div>
 
+
+
 <p align="center">
   <a href="mailto:rebelanil885@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
 
+
 <div align="center">
-  <iframe src="https://tenor.com/view/enter-dev-developer-commit-git-gif-21009539" width="320" height="240" frameborder="0" allowfullscreen></iframe>
+  <a href="https://www.linkedin.com/in/anil-yadav-8b1361282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" alt="linkedin logo" />
+  </a>
 </div>
 
 ---
@@ -17,7 +22,7 @@
 ### 👨‍💻 Projects
 
 <div align="center">
-  <iframe src="https://tenor.com/embed/kroppa-digital-socialmedia-mothersday-developer-gif-21768300" width="320" height="240" frameborder="0" allowfullscreen></iframe>
+ <img src = "https://tenor.com/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300" "/>
 </div>
 
 All of my projects are available at [click here](https://github.com/anilyadav45?tab=repositories)
@@ -25,7 +30,7 @@ All of my projects are available at [click here](https://github.com/anilyadav45?
 ### 💬 Ask me about
 
 <div align="center">
-  <iframe src="https://tenor.com/embed/kroppa-digital-socialmedia-mothersday-developer-gif-21768300" width="320" height="240" frameborder="0" allowfullscreen></iframe>
+  <img src="https://tenor.com/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300">
 </div>
 
 **Web Development, MERN Stack, and Learning New Technologies**
