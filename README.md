@@ -30,7 +30,7 @@ All of my projects are available at [click here](https://github.com/anilyadav45?
 ### 💬 Ask me about
 
 <div align="center">
-  <img src="https://tenor.com/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300">
+  <img src="https://media1.tenor.com/m/M0na3YR-rTcAAAAd/enter-dev.gif">
 </div>
 
 **Web Development, MERN Stack, and Learning New Technologies**
