@@ -10,12 +10,10 @@
   </a>
 </p>
 
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/anil-yadav-8b1361282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" alt="linkedin logo" />
-  </a>
+ <img src="https://tenor.com/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300" alt="developer gif" />
 </div>
+
 
 ---
 
