@@ -22,7 +22,7 @@
 ### 👨‍💻 Projects
 
 <div align="center">
- <img src = "https://tenor.com/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300" "/>
+ <img src = "https://media1.tenor.com/m/gI1CoSP-3R8AAAAd/front.gif"/>
 </div>
 
 All of my projects are available at [click here](https://github.com/anilyadav45?tab=repositories)
