@@ -27,7 +27,7 @@ All of my projects are available at [click here](https://github.com/anilyadav45?
 
 **Web Development, MERN Stack, and Learning New Technologies**
 
-I specialize in full-stack development with **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, MongoDB, Express, React, Node.js**. I’m always excited to learn new technologies and implement them in my projects.
+I am Begginer  full-stack developmenr with **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, MongoDB, Express, React, Node.js**. I’m always excited to learn new technologies and implement them in my projects.
 
 ### 📄 Experience
 
