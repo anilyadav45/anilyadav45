@@ -1,5 +1,3 @@
-![Background Image](https://wallpapers.com/images/hd/64k-ultra-hd-hacker-guy-fawkes-mask-1ifx8cdl7hqyelaj.jpg)
-
 <div align="center" style="background: rgba(30, 60, 114, 0.8); padding: 30px; border-radius: 15px; color: #ffffff;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hi+👋,+I'm+Anil+Yadav;Disciplined+%7C+Lifelong+Learner&center=true&size=30" alt="Typing SVG" />
 </div>
