@@ -50,7 +50,8 @@ Check out my professional experience on [LinkedIn](https://www.linkedin.com/in/a
 
 ### 🔥 Streak Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilyadav45&theme=dark&background=rgba(30, 60, 114, 0.8)&border=orange&stroke=blue&ring=red" alt="Anil's GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=anilyadav45&theme=dark&background=rgba(30, 60, 114, 0.8)&border=orange&stroke=blue&ring=red" alt="Anil's GitHub Streak Stats" />
+
 </div>
 
 ### 📊 GitHub Stats
