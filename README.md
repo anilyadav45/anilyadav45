@@ -32,21 +32,32 @@ Check out my professional experience on [LinkedIn](https://www.linkedin.com/in/a
 
 ### 🛠️ Languages and Tools
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);" title="Bootstrap"/>
-  <img src="https://api.iconify.design/logos/tailwindcss.svg" alt="Tailwind CSS" width="50" height="50" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);" title="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);" title="Express"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);" title="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);" title="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);" title="Linux"/>
+<div align="center">
+  
+  #### 🌐 Frontend
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://api.iconify.design/logos/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  
+  #### ⚙️ Backend & Database
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  
+  #### 🛠️ Other Languages & Tools
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  
+  #### 💻 OS & Development Environment
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+  
 </div>
+
 
 ### 🔥 Streak Stats
 <div align="center">
