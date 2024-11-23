@@ -65,6 +65,15 @@ Check out my professional experience on [LinkedIn](https://www.linkedin.com/in/a
 
 </div>
 
+### Most Used Languages
+
+<div align="center">
+
+![Anil Yadav's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilyadav45&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anilyadav45&show_icons=true&theme=dark" alt="Anil's GitHub Stats" />
