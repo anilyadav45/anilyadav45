@@ -1,93 +1,95 @@
-<div align="center" style="background: rgba(30, 60, 114, 0.8); padding: 30px; border-radius: 15px; color: #ffffff;">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=800&lines=Hi+👋,+I'm+Anil+Yadav;MERN+Stack+Developer+%7C+Lifelong+Learner&center=true&size=30" 
-    alt="Typing SVG" 
-  />
+<!-- README.md -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Hi+👋,+I'm+Anil+Yadav;MERN+Stack+Developer+%7C+Lifelong+Learner" alt="Typing SVG" />
 </div>
-
-
+<br/>
 
 <p align="center">
   <a href="mailto:rebelanil885@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+    <img src="https://img.shields.io/badge/Email-rebelanil885@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anil-yadav-8b1361282" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Anil_Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/anilyadav45?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://img.shields.io/badge/Streak_Stats-Check_Out-FF6B81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak"/>
   </a>
 </p>
 
+---
+
+### 👨‍💻 About Me
+
+I'm Anil Yadav, a passionate **Full Stack MERN Developer** who enjoys turning ideas into real, functional projects.  
+⚡ I build with **React, Node.js, Express, MongoDB**, and style using **TailwindCSS**.  
+🚀 Always learning something new and solving problems with code!
+
+---
+
+### 🌟 Featured Projects
+
+🔗 Explore my work: [GitHub Repositories »](https://github.com/anilyadav45?tab=repositories)
+
+---
+
+### 🛠️ Tech Stack
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/anil-yadav-8b1361282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" alt="linkedin logo" />
-  </a>
+
+#### 🌐 Frontend
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+
+#### ⚙️ Backend
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+#### 🖥️ Other
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
 </div>
 
 ---
 
-### 👨‍💻 Projects
-
-All of my projects are available at [click here](https://github.com/anilyadav45?tab=repositories)
-
-### 💬 Ask me about
-
-**Web Development, MERN Stack, and Learning New Technologies**
-
-I am a Beginner full-stack developer with **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, MongoDB, Express, React, Node.js**. I’m always excited to learn new technologies and implement them in my projects.
-
-### 📄 Experience
-
-Check out my professional experience on [LinkedIn](https://www.linkedin.com/in/anil-yadav-8b1361282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-### 🛠️ Languages and Tools
+### 📊 GitHub Analytics
 
 <div align="center">
-  
-  #### 🌐 Frontend
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://api.iconify.design/logos/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  
-  #### ⚙️ Backend & Database
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  
-  #### 🛠️ Other Languages & Tools
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  
-  #### 💻 OS & Development Environment
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
-  
-</div>
 
+<!-- More reliable streak stats -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=anilyadav45)
+<!-- Stats with forced refresh -->
+<img src="https://github-readme-stats.vercel.app/api?username=anilyadav45&show_icons=true&count_private=true&cache_seconds=1800&theme=radical" alt="Stats" />
 
-### 🔥 Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=anilyadav45&theme=dark&background=rgba(30, 60, 114, 0.8)&border=orange&stroke=blue&ring=red" alt="Anil's GitHub Streak Stats" />
+<!-- Top languages with filtering -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilyadav45&layout=compact&hide=html,css,scss&langs_count=6)](https://github.com/anilyadav45)
 
 </div>
 
-### Most Used Languages
+---
+
+
+
+### 💡 Fun Fact
+
+> I believe in *"Code. Fail. Learn. Repeat."* – That's how real developers are made 🚀
 
 <div align="center">
-
-![Anil Yadav's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilyadav45&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anilyadav45&show_icons=true&theme=dark" alt="Anil's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/animation.gif" width="50%">
-</div>
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=anilyadav45&theme=react-dark" alt="Anil's Activity Graph" />
+  <img src="https://komarev.com/ghpvc/?username=anilyadav45&label=Profile%20views&color=0e75b6&style=flat" alt="anilyadav45" /> 
 </div>
