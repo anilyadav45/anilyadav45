@@ -24,10 +24,7 @@
 
 ### 👨‍💻 About Me
 
-I'm Anil Yadav, a passionate **Full Stack MERN Developer** who enjoys turning ideas into real, functional projects.  
-⚡ I build with **React, Node.js, Express, MongoDB**, and style using **TailwindCSS**.  
-🚀 Always learning something new and solving problems with code!
-
+Anil Yadav — Computer Science student, passionate about turning ideas into reality
 ---
 
 ### 🌟 Featured Projects
@@ -88,8 +85,7 @@ I'm Anil Yadav, a passionate **Full Stack MERN Developer** who enjoys turning id
 
 ### 💡 Fun Fact
 
-> I believe in *"Code. Fail. Learn. Repeat."* – That's how real developers are made 🚀
-
+I believe in building and exploring rather than memorizing. (I just learn fast by doing 😉)
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anilyadav45&label=Profile%20views&color=0e75b6&style=flat" alt="anilyadav45" /> 
 </div>
