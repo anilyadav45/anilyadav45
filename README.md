@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-Anil Yadav — Computer Science student, passionate about turning ideas into reality
+Anil Yadav — Computer Science student, passionate about turning ideas into reality.
 ---
 
 ### 🌟 Featured Projects
