@@ -33,35 +33,40 @@ Anil Yadav — Computer Science student, passionate about turning ideas into rea
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ My Tech Stack
 
-<div align="center">
-
-#### 🌐 Frontend
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-</p>
-
-#### ⚙️ Backend
-<p>
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
-#### 🖥️ Other
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</p>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="100%">
+      <h3 align="center">Frontend</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap&perline=3" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="100%">
+      <h3 align="center">Backend</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="100%">
+      <h3 align="center">Other Tools & Languages</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java,python,c,vscode,popos" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
