@@ -19,6 +19,19 @@
   </a>
 </p>
 
+<h3 align="center">📱 Find Me on Social Media</h3>
+<p align="center">
+  <a href="https://www.instagram.com/anil.yaduwanshi45/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100087176381835" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+
 ---
 
 <h2 align="center">🛠️ My Tech Stack</h2>
@@ -36,10 +49,16 @@
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
     </a>
   </p>
-  <h4>Programming Languages & Tools</h4>
+  <h4>Programming Languages</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,python,c,vscode,git,github,popos" />
+      <img src="https://skillicons.dev/icons?i=java,python,c" />
+    </a>
+  </p>
+  <h4>Tools</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=popos,docker,git,github,vscode" />
     </a>
   </p>
 </div>
@@ -52,11 +71,11 @@
   <p>
     <img src="https://github-profile-trophy.vercel.app/?username=anilyadav45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </p>
-  
+ 
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=anilyadav45&theme=tokyo-night&hide_border=true&hide_title=false&area=true&bg_color=1A1B27" alt="GitHub Activity Graph" />
   </p>
-  
+ 
   <table>
     <tr>
       <td align="center">
